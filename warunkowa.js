@@ -7,8 +7,8 @@ console.log(value);
 if (value > 0) {
 	console.log("Wieksze od zera, jesteś wspanialy, jestes wlochaty");
 }	else if (value < 0}	{
-	console.log("Mniej niż zerooo o");
-}	else {
-	console.log("Nie wiem. Co to ma byc?!");
+	console.log("Mniej niż zero");
+}	else if (value = 0){
+	console.log("Wynik jest równy zero");
 }
 
